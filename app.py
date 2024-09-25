@@ -1,6 +1,6 @@
 # import google.generativeai as genai
 # import os
-# os.environ["API_KEY"] = "AIzaSyCL7_Ax5dx-l2i1trqNzoK_bxE3pwjG32U"
+# os.environ["API_KEY"] = "..................."
 #
 
 #---------------write code in notepad-------------------------
@@ -35,7 +35,7 @@
 # import streamlit as st
 # import google.generativeai as genai
 # import os
-# os.environ["API_KEY"] = "AIzaSyCL7_Ax5dx-l2i1trqNzoK_bxE3pwjG32U"
+# os.environ["API_KEY"] = "........................"
 # genai.configure(api_key=os.environ["API_KEY"])
 # model= genai.GenerativeModel("gemini-pro")
 
@@ -60,7 +60,7 @@ import streamlit as st
 import google.generativeai as genai
 import os
 from PIL import Image
-os.environ["API_KEY"] = "AIzaSyCL7_Ax5dx-l2i1trqNzoK_bxE3pwjG32U"
+os.environ["API_KEY"] = "..........................."
 genai.configure(api_key=os.environ["API_KEY"])
 model= genai.GenerativeModel("gemini-1.5-flash")
 
